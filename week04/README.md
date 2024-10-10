@@ -1,7 +1,7 @@
 # Week 04
 
 - [Lecture slides](https://docs.google.com/presentation/d/1aa1uS7lm3iuxDM5ZDCBNUaWz1E81zUevxYqZIymxgiA/edit?usp=sharing)
-- [Recording on YouTube (in Russian)](TBA)
+- [Recording on YouTube (in Russian)](https://www.youtube.com/watch?v=4who1RG-kaA&t=1176s&ab_channel=Sound%2CDLandVariousStatistics)
 
 ### Practice & homework
 
